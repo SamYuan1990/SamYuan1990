@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![SamYuan1990's github stats](https://github-readme-stats.vercel.app/api?username=SamYuan1990&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![SamYuan1990's github stats](https://github-readme-stats.vercel.app/api?username=SamYuan1990&show_icons=true)](https://github-readme-stats.vercel.app/api?username=SamYuan1990&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamYuan1990&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamYuan1990&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=SamYuan1990&layout=compact)
 
 - 🔭 I’m currently working on Hyperledger Fabric and TWGC related projects.  (https://github.com/Hyperledger-TWGC)
 - 🌱 I’m currently learning Hyperledger Fabric.
