@@ -1,16 +1,22 @@
 ### Hi there 👋
 |     |   |
 |  ----  | ----  |
-| [![SamYuan1990's github stats](https://github-readme-stats.vercel.app/api?username=SamYuan1990&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=SamYuan1990&show_icons=true&include_all_commits=true)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamYuan1990&layout=default&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=SamYuan1990&layout=default) |
+| [![SamYuan1990's github stats](https://github-readme-stats.vercel.app/api?username=SamYuan1990&show_icons=true&include_all_commits=true&theme=tokyonight#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=SamYuan1990&show_icons=true&include_all_commits=true#gh-dark-mode-only)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamYuan1990&layout=default&theme=tokyonight#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=SamYuan1990&layout=default#gh-dark-mode-only) |
+| [![SamYuan1990's github stats](https://github-readme-stats.vercel.app/api?username=SamYuan1990&show_icons=true&include_all_commits=true&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=SamYuan1990&show_icons=true&include_all_commits=true#gh-light-mode-only)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamYuan1990&layout=default&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=SamYuan1990&layout=default#gh-light-mode-only) |
 
 I am mantainer for proejcts below:
 |  Project   | Type  |
 |  ----  | ----  |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyperledger-TWGC&repo=tape&theme=tokyonight)](https://github.com/Hyperledger-TWGC/tape) | Hyperledger Fabric performance related project |
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyperledger-labs&repo=PerformanceSandBox&theme=tokyonight)](https://github.com/hyperledger-labsPerformanceSandBox) | Hyperledger Fabric performance related project  |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamYuan1990&repo=Probe&theme=tokyonight)](https://github.com/SamYuan1990/Probe)| Hyperledger Fabric performance related project |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyperledger-TWGC&repo=java-gm&theme=tokyonight)](https://github.com/Hyperledger-TWGC/java-gm)| China national crypto related project |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyperledger-TWGC&repo=GM-interoperability&theme=tokyonight)](https://github.com/Hyperledger-TWGC/GM-interoperability)| China national crypto related project |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyperledger-TWGC&repo=tape&theme=tokyonight#gh-dark-mode-only)](https://github.com/Hyperledger-TWGC/tape)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyperledger-TWGC&repo=tape&theme=default##gh-light-mode-only)](https://github.com/Hyperledger-TWGC/tape) | Hyperledger Fabric performance related project |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyperledger-labs&repo=PerformanceSandBox&theme=tokyonight#gh-dark-mode-only)](https://github.com/hyperledger-labs/PerformanceSandBox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyperledger-labs&repo=PerformanceSandBox&theme=default#gh-light-mode-only)](https://github.com/hyperledger-labs/PerformanceSandBox)  | Hyperledger Fabric performance related project  |
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamYuan1990&repo=Probe&theme=tokyonight#gh-dark-mode-only)](https://github.com/SamYuan1990/Probe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamYuan1990&repo=Probe&theme=default#gh-light-mode-only)](https://github.com/SamYuan1990/Probe)| Hyperledger Fabric performance related project |
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyperledger-TWGC&repo=java-gm&theme=tokyonight#gh-dark-mode-only)](https://github.com/Hyperledger-TWGC/java-gm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyperledger-TWGC&repo=java-gm&theme=default#gh-light-mode-only)](https://github.com/Hyperledger-TWGC/java-gm)| China national crypto related project |
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyperledger-TWGC&repo=GM-interoperability&theme=tokyonight#gh-dark-mode-only)](https://github.com/Hyperledger-TWGC/GM-interoperability)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyperledger-TWGC&repo=GM-interoperability&theme=default#gh-light-mode-only)](https://github.com/Hyperledger-TWGC/GM-interoperability)| China national crypto related project |
 
 - 🔭 I’m currently working on [Hyperledger TWGC related projects](https://github.com/Hyperledger-TWGC) and [PerformanceSandbox](https://github.com/hyperledger-labs/PerformanceSandBox).
 - 🌱 I’m currently working on Hyperledger projects.
