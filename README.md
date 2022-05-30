@@ -1,9 +1,9 @@
 |     |   |
 |  ----  | ----  |
 | ![Metrics](/metrics.base.svg)  | ![Metrics](/metrics.plugin.followup.indepth.svg) |
-| ![Metrics](/metrics.plugin.habits.charts.svg)  | ![Metrics](/metrics.plugin.languages.recent.svg) |
-| ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
-| |
+| ![Metrics](/metrics.plugin.isocalendar.fullyear.svg) |![Metrics](/metrics.plugin.habits.charts.svg) |
+|  ![Metrics](metrics.performancesandbox.svg)  | ![Metrics](metrics.tape.svg)  |
+|  ![Metrics](metrics.interoperability.svg)  | ![Metrics](metrics.javagm.svg)  |
 
 - 🔭 I’m currently working on [Hyperledger TWGC related projects](https://github.com/Hyperledger-TWGC) and [PerformanceSandbox](https://github.com/hyperledger-labs/PerformanceSandBox).
 - 🌱 I’m currently working on Hyperledger projects.
