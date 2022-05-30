@@ -1,22 +1,4 @@
-### Hi there 👋
-
-Here I am:
-# [![SamYuan1990's github stats](https://github-readme-stats.vercel.app/api?username=SamYuan1990&show_icons=true&include_all_commits=true&theme=tokyonight#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=SamYuan1990&show_icons=true&include_all_commits=true#gh-dark-mode-only) 
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamYuan1990&layout=default&theme=tokyonight#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=SamYuan1990&layout=default#gh-dark-mode-only)
-# [![SamYuan1990's github stats](https://github-readme-stats.vercel.app/api?username=SamYuan1990&show_icons=true&include_all_commits=true&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=SamYuan1990&show_icons=true&include_all_commits=true#gh-light-mode-only) 
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamYuan1990&layout=default&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=SamYuan1990&layout=default#gh-light-mode-only)
-
-I am mantainer for proejcts below:
-# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyperledger-TWGC&repo=tape&theme=tokyonight#gh-dark-mode-only)](https://github.com/Hyperledger-TWGC/tape#gh-dark-mode-only)
-# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyperledger-TWGC&repo=tape&theme=default#gh-light-mode-only)](https://github.com/Hyperledger-TWGC/tape#gh-light-mode-only)
-# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyperledger-labs&repo=PerformanceSandBox&theme=tokyonight#gh-dark-mode-only)](https://github.com/hyperledger-labs/PerformanceSandBox#gh-dark-mode-only)
-# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyperledger-labs&repo=PerformanceSandBox&theme=default#gh-light-mode-only)](https://github.com/hyperledger-labs/PerformanceSandBox#gh-light-mode-only)
-# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamYuan1990&repo=Probe&theme=tokyonight#gh-dark-mode-only)](https://github.com/SamYuan1990/Probe#gh-dark-mode-only)
-# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamYuan1990&repo=Probe&theme=default#gh-light-mode-only)](https://github.com/SamYuan1990/Probe#gh-light-mode-only)
-# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyperledger-TWGC&repo=java-gm&theme=tokyonight#gh-dark-mode-only)](https://github.com/Hyperledger-TWGC/java-gm#gh-dark-mode-only)
-# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyperledger-TWGC&repo=java-gm&theme=default#gh-light-mode-only)](https://github.com/Hyperledger-TWGC/java-gm#gh-light-mode-only)
-# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyperledger-TWGC&repo=GM-interoperability&theme=tokyonight#gh-dark-mode-only)](https://github.com/Hyperledger-TWGC/GM-interoperability#gh-dark-mode-only)
-# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyperledger-TWGC&repo=GM-interoperability&theme=default#gh-light-mode-only)](https://github.com/Hyperledger-TWGC/GM-interoperability#gh-light-mode-only)
+###
 
 - 🔭 I’m currently working on [Hyperledger TWGC related projects](https://github.com/Hyperledger-TWGC) and [PerformanceSandbox](https://github.com/hyperledger-labs/PerformanceSandBox).
 - 🌱 I’m currently working on Hyperledger projects.
