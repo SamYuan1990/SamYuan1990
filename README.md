@@ -1,4 +1,4 @@
-###
+![Metrics](/metrics.base.svg)
 
 - 🔭 I’m currently working on [Hyperledger TWGC related projects](https://github.com/Hyperledger-TWGC) and [PerformanceSandbox](https://github.com/hyperledger-labs/PerformanceSandBox).
 - 🌱 I’m currently working on Hyperledger projects.

@@ -61,14 +61,53 @@ jobs:
         plugin_followup: yes
         plugin_followup_indepth: yes
 
-    - name: Example
+    - name: PerformanceSandBox
       uses: lowlighter/metrics@latest
       with:
         template: repository
-        filename: metrics.repository.svg
+        filename: metrics.performancesandbox.svg
         token: ${{ secrets.METRICS_TOKEN }}
-        user: lowlighter
-        repo: metrics
+        user: hyperledger-labs
+        repo: PerformanceSandBox
+        plugin_lines: yes
+        plugin_followup: yes
+        plugin_projects: yes
+        plugin_projects_repositories: lowlighter/metrics/projects/1
+
+    - name: Tape
+      uses: lowlighter/metrics@latest
+      with:
+        template: repository
+        filename: metrics.tape.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        user: Hyperledger-TWGC
+        repo: tape
+        plugin_lines: yes
+        plugin_followup: yes
+        plugin_projects: yes
+        plugin_projects_repositories: lowlighter/metrics/projects/1
+
+    - name: Inter
+      uses: lowlighter/metrics@latest
+      with:
+        template: repository
+        filename: metrics.interoperability.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        user: Hyperledger-TWGC
+        repo: GM-interoperability
+        plugin_lines: yes
+        plugin_followup: yes
+        plugin_projects: yes
+        plugin_projects_repositories: lowlighter/metrics/projects/1
+
+    - name: Java-gm
+      uses: lowlighter/metrics@latest
+      with:
+        template: repository
+        filename: metrics.javagm.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        user: Hyperledger-TWGC
+        repo: java-gm
         plugin_lines: yes
         plugin_followup: yes
         plugin_projects: yes
