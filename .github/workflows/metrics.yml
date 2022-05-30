@@ -5,7 +5,7 @@
 name: Metrics
 on:
   # 🌏 Think about the planet! No need to update stats too frequently
-  schedule: [{cron: "0 16 * * *"}]
+  schedule: [{cron: "* * 18 * *"}]
   # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
 jobs:
@@ -18,63 +18,49 @@ jobs:
         filename: metrics.base.svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: header, activity, community, repositories, metadata
+ 
+    - name: Full-year calendar
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.isocalendar.fullyear.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
         plugin_isocalendar: yes
         plugin_isocalendar_duration: full-year
+
+    - name: Recently used
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.languages.recent.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
         plugin_languages: yes
         plugin_languages_ignored: >-
-          css, tex, less, makefile, qmake, lex, cmake,
-          gnuplot
+         html, css, tex, less, makefile, qmake, lex, cmake, gnuplot
         plugin_languages_sections: recently-used
         plugin_languages_details: bytes-size, percentage
         plugin_languages_limit: 4
+
+    - name: Recent activity charts
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.habits.charts.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
         plugin_habits: yes
         plugin_habits_facts: no
         plugin_habits_charts: yes
         config_timezone: Asia/Shanghai
+
+    - name: Indepth analysis
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.followup.indepth.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
         plugin_followup: yes
         plugin_followup_indepth: yes
-    #- name: Full-year calendar
-    #  uses: lowlighter/metrics@latest
-    #  with:
-    #    filename: metrics.plugin.isocalendar.fullyear.svg
-    #    token: ${{ secrets.METRICS_TOKEN }}
-    #    base: ""
-    #    plugin_isocalendar: yes
-    #    plugin_isocalendar_duration: full-year
 
-    #- name: Recently used
-    #  uses: lowlighter/metrics@latest
-    #  with:
-    #    filename: metrics.plugin.languages.recent.svg
-    #    token: ${{ secrets.METRICS_TOKEN }}
-    #    base: ""
-    #    plugin_languages: yes
-    #    plugin_languages_ignored: >-
-    #     html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-    #      gnuplot
-    #    plugin_languages_sections: recently-used
-    #    plugin_languages_details: bytes-size, percentage
-    #    plugin_languages_limit: 4
-
-    #- name: Recent activity charts
-    #  uses: lowlighter/metrics@latest
-    #  with:
-    #    filename: metrics.plugin.habits.charts.svg
-    #    token: ${{ secrets.METRICS_TOKEN }}
-    #    base: ""
-    #    plugin_habits: yes
-    #    plugin_habits_facts: no
-    #    plugin_habits_charts: yes
-    #    config_timezone: Asia/Shanghai
-
-    #- name: Indepth analysis
-    #  uses: lowlighter/metrics@latest
-    #  with:
-    #    filename: metrics.plugin.followup.indepth.svg
-    #    token: ${{ secrets.METRICS_TOKEN }}
-    #    base: ""
-    #    plugin_followup: yes
-    #    plugin_followup_indepth: yes
     - name: Example
       uses: lowlighter/metrics@latest
       with:
