@@ -4,6 +4,7 @@
 | ![Metrics](/metrics.plugin.isocalendar.fullyear.svg) |![Metrics](/metrics.plugin.habits.charts.svg) |
 |  ![Metrics](metrics.performancesandbox.svg)  | ![Metrics](metrics.tape.svg)  |
 |  ![Metrics](metrics.interoperability.svg)  | ![Metrics](metrics.javagm.svg)  |
+|  ![Metrics](metrics.fabric-admin-sdk.svg)  | |
 
 - 🔭 I’m currently working on [Hyperledger TWGC related projects](https://github.com/Hyperledger-TWGC) and [PerformanceSandbox](https://github.com/hyperledger-labs/PerformanceSandBox).
 - 🌱 I’m currently working on Hyperledger projects.
@@ -15,7 +16,7 @@
 Events & Hyperledger blogs
 1. https://www.hyperledger.org/blog/2022/02/15/developer-showcase-series-yi-sam-yuan-ibm
 1. https://www.hyperledger.org/blog/2022/03/07/performance-sandbox-a-new-hyperledger-lab-is-a-test-ground-for-blockchain-performance-research
-
+1. https://www.meetup.com/hyperledger-noida/events/286227899/
 <!--
 **SamYuan1990/SamYuan1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
