@@ -124,3 +124,16 @@ jobs:
         plugin_followup: yes
         plugin_projects: yes
         plugin_projects_repositories: lowlighter/metrics/projects/1
+
+    - name: kepler
+      uses: lowlighter/metrics@latest
+      with:
+        template: repository
+        filename: metrics.kepler.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        user: sustainable-computing-io
+        repo: kepler
+        plugin_lines: yes
+        plugin_followup: yes
+        plugin_projects: yes
+        plugin_projects_repositories: lowlighter/metrics/projects/1
