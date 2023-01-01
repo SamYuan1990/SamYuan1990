@@ -86,31 +86,31 @@ jobs:
         plugin_projects: yes
         plugin_projects_repositories: lowlighter/metrics/projects/1
 
-    - name: Inter
-      uses: lowlighter/metrics@latest
-      with:
-        template: repository
-        filename: metrics.interoperability.svg
-        token: ${{ secrets.METRICS_TOKEN }}
-        user: Hyperledger-TWGC
-        repo: GM-interoperability
-        plugin_lines: yes
-        plugin_followup: yes
-        plugin_projects: yes
-        plugin_projects_repositories: lowlighter/metrics/projects/1
+    #- name: Inter
+    #  uses: lowlighter/metrics@latest
+    #  with:
+    #    template: repository
+    #    filename: metrics.interoperability.svg
+    #    token: ${{ secrets.METRICS_TOKEN }}
+    #    user: Hyperledger-TWGC
+    #    repo: GM-interoperability
+    #    plugin_lines: yes
+    #    plugin_followup: yes
+    #    plugin_projects: yes
+    #    plugin_projects_repositories: lowlighter/metrics/projects/1
 
-    - name: Java-gm
-      uses: lowlighter/metrics@latest
-      with:
-        template: repository
-        filename: metrics.javagm.svg
-        token: ${{ secrets.METRICS_TOKEN }}
-        user: Hyperledger-TWGC
-        repo: java-gm
-        plugin_lines: yes
-        plugin_followup: yes
-        plugin_projects: yes
-        plugin_projects_repositories: lowlighter/metrics/projects/1
+    # - name: Java-gm
+    #  uses: lowlighter/metrics@latest
+    #  with:
+    #    template: repository
+    #    filename: metrics.javagm.svg
+    #    token: ${{ secrets.METRICS_TOKEN }}
+    #    user: Hyperledger-TWGC
+    #    repo: java-gm
+    #    plugin_lines: yes
+    #    plugin_followup: yes
+    #    plugin_projects: yes
+    #    plugin_projects_repositories: lowlighter/metrics/projects/1
 
     - name: fabric-admin-sdk
       uses: lowlighter/metrics@latest
