@@ -11,7 +11,7 @@
 1. [PerformanceSandbox](https://github.com/hyperledger-labs/PerformanceSandBox)
 - 🌱 You are free to ask me everything.
 - 💬 My blog at [CSDN](https://blog.csdn.net/oe1019).
-- 📫 How to reach me: yy19902439@126.com
+- 📫 How to reach me: yy19902439@126.com, [linkedin](https://www.linkedin.com/in/%E6%80%BF%EF%BC%8Ctwgc-%E8%A2%81-69aa0197/)
 
 ---
 Events & blogs
