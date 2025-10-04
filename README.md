@@ -6,14 +6,21 @@
 |  ![Metrics](metrics.fabric-admin-sdk.svg) | ![Metrics](metrics.kepleraction.svg) |
 
 - 🔭 I’m currently working on 
-1. [sustainable-computing](https://github.com/sustainable-computing-io)
-1. [Hyperledger TWGC related projects](https://github.com/Hyperledger-TWGC) 
+1. Flet based chart box AI agent
+2. [sustainable-computing](https://github.com/sustainable-computing-io)
+3. [Hyperledger TWGC related projects](https://github.com/Hyperledger-TWGC) 
 - 🌱 You are free to ask me everything.
 - 💬 My blog at [CSDN](https://blog.csdn.net/oe1019).
 - 📫 How to reach me: yy19902439@126.com, [linkedin](https://www.linkedin.com/in/%E6%80%BF%EF%BC%8Ctwgc-%E8%A2%81-69aa0197/)
 
 ---
 # Events & blogs
+## 2025
+1. KCD Beijing 2025, speaker
+2. OpenSSF China 2025, speaker
+3. PyTorch meet up China 2025, beijing, speaker
+4. Community over code Asia 2025, speaker
+
 ## 2023
 1. KubeCon China 2023, as Kepler's [kiosk](https://www.bilibili.com/video/BV1vu411A735/)
 1. RedHat livestream in China with project kepler, https://www.bilibili.com/video/BV1gH4y1978f
